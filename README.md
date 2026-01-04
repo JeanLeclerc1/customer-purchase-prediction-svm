@@ -1,5 +1,8 @@
 # Customer Purchase Prediction using SVM
 
+📘 **Notebook:**  
+[View full analysis](notebooks/customer_purchase_prediction.ipynb)
+
 ## Overview
 This project predicts whether a customer will make a purchase based on two features:
 - Age
